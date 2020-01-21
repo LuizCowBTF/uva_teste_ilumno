@@ -1,0 +1,28 @@
+{
+  "name": "luizcowbtf/uva-api",
+  "description": "Teste Desenvolvedor Web - Luiz Claudio Dias Gomes ",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luiz Claudio Dias Gomes",
+      "email": "luizcowbtf@gmail.com",
+      "homepage": "http://www.innovvationet.com.br"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "phpmailer/phpmailer": "6.0.*",
+    "coffeecode/datalayer":
+  }
+}

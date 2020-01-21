@@ -1,0 +1,43 @@
+{
+	"service":"1",
+	"forms_id_form":"988",
+	"forms_admins_id_admin":"36",
+	"content_reg":{ 
+					"id_form":"988",
+					"admins_id_admin":"36",
+					"title_form":"prueba (988)",
+					"description_form":"prueba",
+					"fields_form":[ 
+									{ 
+										"type":"TEXT",
+										"fieldId":"fieldType1_combo",
+										"name":"nombre",
+										"value":"[valor_del_campo]",
+										"restrict":"NameCharactersAndNumbers"
+									},
+									{ 
+										"type":"TEXT",
+										"fieldId":"fieldType2_combo",
+										"name":"email",
+										"value":"[valor_del_campo]",
+										"restrict":"NameCharactersAndNumbers"
+									},
+									{ 
+										"type":"TEXT",
+										"fieldId":"fieldType3_combo",
+										"name":"tipodoc",
+										"value":"[valor_del_campo]",
+										"restrict":"NameCharactersAndNumbers"
+									},
+									{ 
+										"type":"TEXT",
+										"fieldId":"fieldType4_combo",
+										"name":"numdoc",
+										"value":"[valor_del_campo]",
+										"restrict":"NameCharactersAndNumbers"
+									}
+								],
+					"date_form":"2019-04-29 00:00:00"
+				},
+	"date_reg":"2019-04-29"
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0dd8016-785e-4d61-9f58-976894ad782d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="8138b6a5-1c1c-429a-b19e-f8f6daaa7545" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WfIKAK8sLZZ8dV9F4uYsCDZmrC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\uva-api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="uva-api" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.uva-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0dd8016-785e-4d61-9f58-976894ad782d" name="Default Changelist" comment="" />
+      <created>1579534160229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579534160229</updated>
+      <workItem from="1579534173111" duration="6869000" />
+      <workItem from="1579548359364" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="40" key="#CLI_Interpreters" timestamp="1579534450787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="40" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1579534450787" />
+    <state x="397" y="0" key="#PHP" timestamp="1579536430464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1579536430464" />
+    <state x="263" y="20" key="#Test_Frameworks" timestamp="1579536474484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="20" key="#Test_Frameworks/0.0.1366.728@0.0.1366.728" timestamp="1579536474484" />
+    <state x="367" y="3" width="645" height="723" key="#uva-api" timestamp="1579536431734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="3" width="645" height="723" key="#uva-api/0.0.1366.728@0.0.1366.728" timestamp="1579536431734" />
+    <state x="459" y="278" width="447" height="261" key="ComposerInitDialogKey" timestamp="1579534583440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="278" width="447" height="261" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1579534583440" />
+    <state x="462" y="151" key="FileChooserDialogImpl" timestamp="1579542484593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="151" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579542484593" />
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom" timestamp="1579540714918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579540714918" />
+    <state width="1323" height="104" key="GridCell.Tab.0.center" timestamp="1579540714918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579540714918" />
+    <state width="1323" height="104" key="GridCell.Tab.0.left" timestamp="1579540714918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579540714918" />
+    <state width="1323" height="104" key="GridCell.Tab.0.right" timestamp="1579540714918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579540714918" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1579536347191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1579536347191" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579548386001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579548386001" />
+  </component>
+</project>
